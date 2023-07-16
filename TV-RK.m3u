@@ -1,0 +1,530 @@
+#EXTM3U
+#EXTINF:0, MAS TV
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:0, Tele RED
+https://video20.klm99.com:3558/live/teleredlive.m3u8
+#EXTINF:0, ACS NETWORK
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+#EXTINF:0, Mi TV
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+#EXTINF:0, STV
+https://lstv.duckdns.org:449/hls/stv.m3u8
+#EXTINF:0, RETROPLUS TV
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:0, LATINA
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8?uid=F4wmuLjsYBiY3YthGLIpMDOMLyhxXLcF&sid=PIdgvRpSXAZ1NRnxLWkkbbbM7Heww7N0&pid=xgnzRsK144KRrj4w9Db15D2yMIMYnhLL&an=Media%20Stream%20TV%20en%20vivo&at=web-app&av=v5.2.338&ref=https%3A%2F%2Fwww.latina.pe%2F&res=703x395&without_cookies=false&listenerid=&dnt=true
+#EXTINF:0, PANAMERICANA
+https://cdnh74.iblups.com/hls/ptv2.m3u8
+#EXTINF:0, ATV
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv.m3u8
+#EXTINF:0, ATV+
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv2.m3u8
+#EXTINF:0, VIVA
+https://5cefcbf58ba2e.streamlock.net:543/viva/viva/playlist.m3u8
+#EXTINF:0, TV PERU
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
+#EXTINF:0, TV PERU NOTICIAS
+https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index.m3u8
+#EXTINF:0, IPE TV
+https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
+#EXTINF:0, NATIVA TV
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
+#EXTINF:0, CGTN
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0, RT
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:0, UNITEL HYO
+https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
+#EXTINF:0, CADENA TV HYO
+https://servilive.com:3079/live/cdnatvlive.m3u8
+#EXTINF:0, BHtv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0, CENTRAL TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, EXITOSA TV
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
+#EXTINF:0, PAX TV
+https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
+#EXTINF:0, Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8
+#EXTINF:0, Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8
+#EXTINF:0, Disney Jr
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Infantil/DISNEY_JUNIOR/index.m3u8
+#EXTINF:0, Discovery Kids
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8
+#EXTINF:0, Nick
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Infantil/NICK/index.m3u8
+#EXTINF:0, Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Infantil/NICK_JR/index.m3u8
+#EXTINF:0, Tooncast
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8
+#EXTINF:0, Bitme
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
+#EXTINF:0, Cartoonito
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8
+#EXTINF:0, Boing
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Infantil/BOING_TV/index.m3u8
+#EXTINF:0, CNN en Espa ol
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8
+#EXTINF:0, CNN
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/CNN/index.m3u8
+#EXTINF:0, Glitz
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/GLITZ/index.m3u8
+#EXTINF:0, RT en Espa ol
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/RT_ESPANOL/index.m3u8
+#EXTINF:0, TruTV
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/TRUTV/index.m3u8
+#EXTINF:0, MasChic
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/MASCHIC/index.m3u8
+#EXTINF:0, Lifetime
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/LIFETIME/index.m3u8
+#EXTINF:0, ADN40
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/ADN40/index.m3u8
+#EXTINF:0, RCN
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/RCN/index.m3u8
+#EXTINF:0, Telefe
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/TELEFE/index.m3u8
+#EXTINF:0, HolaTV
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/HOLATV/index.m3u8
+#EXTINF:0, Las Estrellas
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/LAS_ESTRELLAS/index.m3u8
+#EXTINF:0, Canal E!
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/CANAL_E/index.m3u8
+#EXTINF:0, Caracol TV
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/CARACOLTV/index.m3u8
+#EXTINF:0, Telemundo
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/TELEMUNDO/index.m3u8
+#EXTINF:0, Azteca7
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/AZTECA7/index.m3u8
+#EXTINF:0, Univision
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/UNIVISION/index.m3u8
+#EXTINF:0, Antena 3
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/ANTENA3/index.m3u8
+#EXTINF:0, Azteca Uno
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/AZTECA_UNO/index.m3u8
+#EXTINF:0, DW en Espa ol
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/DW_Spanish/index.m3u8
+#EXTINF:0, Canal Uno
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Mundo/CANAL_UNO/index.m3u8
+#EXTINF:0, Food Network
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/FOOD_NETWORK/index.m3u8
+#EXTINF:0, Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:0, Discovery Theater
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_THEATER/index.m3u8
+#EXTINF:0, Discovery World
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_WORLD/index.m3u8
+#EXTINF:0, Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_TURBO/index.m3u8
+#EXTINF:0, Discovery Sciences
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_SCIENCES/index.m3u8
+#EXTINF:0, Discovery ID
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_ID/index.m3u8
+#EXTINF:0, Discovery H&H
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_HH/index.m3u8
+#EXTINF:0, History Channel
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/HISTORY/index.m3u8
+#EXTINF:0, H2
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/H2/index.m3u8
+#EXTINF:0, National Geographic
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/NATGEO/index.m3u8
+#EXTINF:0, A&E
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
+#EXTINF:0, Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/ANIMAL_PLANET/index.m3u8
+#EXTINF:0, El Gourmet
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/EL_GOURMET/index.m3u8
+#EXTINF:0, TLC
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/TLC/index.m3u8
+#EXTINF:0, ComedyCentral
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/COMEDYCENTRAL/index.m3u8
+#EXTINF:0, Distrito Comedia
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/DISTRITO_COMEDIA/index.m3u8
+#EXTINF:0, Love Nature
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/LOVE_NATURE/index.m3u8
+#EXTINF:0, TLNovelas
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/TLNovelas/index.m3u8
+#EXTINF:0, Love Nature 4K
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/LOVENATURE_4K/index.m3u8
+#EXTINF:0, Discovery Familia
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_FAMILIA/index.m3u8
+#EXTINF:0, HGTV
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Cultura/HGTV/index.m3u8
+#EXTINF:0, Star Channel
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/STAR_CHANNEL/index.m3u8
+#EXTINF:0, Universal TV
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_TV/index.m3u8
+#EXTINF:0, Warner TV
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/WARNER_TV/index.m3u8
+#EXTINF:0, AXN
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/AXN/index.m3u8
+#EXTINF:0, Paramount
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/PARAMOUNT/index.m3u8
+#EXTINF:0, Studio Universal
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/STUDIO_UNIVERSAL/index.m3u8
+#EXTINF:0, FX
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/FX/index.m3u8
+#EXTINF:0, TBS
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/TBS/index.m3u8
+#EXTINF:0, TNT
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8
+#EXTINF:0, TNT Series
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/TNT_SERIES/index.m3u8
+#EXTINF:0, Cinemax
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/CINEMAX/index.m3u8
+#EXTINF:0, Sony
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/SONY/index.m3u8
+#EXTINF:0, DePelicula
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/DEPELICULA/index.m3u8
+#EXTINF:0, Cinecanal
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/CINECANAL/index.m3u8
+#EXTINF:0, HBO
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8
+#EXTINF:0, HBO 2
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_2/index.m3u8
+#EXTINF:0, HBO +
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_PLUS/index.m3u8
+#EXTINF:0, HBO Mundi
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_MUNDI/index.m3u8
+#EXTINF:0, HBO Pop
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_POP/index.m3u8
+#EXTINF:0, HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_SIGNATURE/index.m3u8
+#EXTINF:0, HBO Xtreme
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_XTREME/index.m3u8
+#EXTINF:0, HBO Family
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_FAMILY/index.m3u8
+#EXTINF:0, Golden
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN/index.m3u8
+#EXTINF:0, Golden Edge
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_EDGE/index.m3u8
+#EXTINF:0, Golden Premier
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_PREMIER/index.m3u8
+#EXTINF:0, Golden Plus
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_PLUS/index.m3u8
+#EXTINF:0, AMC
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/AMC/index.m3u8
+#EXTINF:0, SPACE
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/SPACE/index.m3u8
+#EXTINF:0, Universal Premiere
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
+#EXTINF:0, Universal Reality
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_REALITY/index.m3u8
+#EXTINF:0, Universal Crime
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_CRIME/index.m3u8
+#EXTINF:0, Universal Comedy
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_COMEDY/index.m3u8
+#EXTINF:0, MTV
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Musica/MTV/index.m3u8
+#EXTINF:0, MTV Hits
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Musica/MTV_HITS/index.m3u8
+#EXTINF:0, MTV Live
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Musica/MTV_LIVE/index.m3u8
+#EXTINF:0, MTV Classic
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Musica/MTV_CLASSIC/index.m3u8
+#EXTINF:0, Bandamax
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Musica/BANDAMAX/index.m3u8
+#EXTINF:0, Nick Music
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Musica/NICK_MUSIC/index.m3u8
+#EXTINF:0, Retro Plus 1
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Musica/RETRO_PLUS_1/index.m3u8
+#EXTINF:0, Retro Plus 2
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Musica/RETRO_PLUS_2/index.m3u8
+#EXTINF:0, CCP Radio
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Musica/ENERGEEK_CCP_RADIO/index.m3u8
+#EXTINF:0, EnerGeek Radio
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Musica/ENERGEEK_RADIO/index.m3u8
+#EXTINF:0, Telehit
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Musica/TELEHIT/index.m3u8
+#EXTINF:0, TopLatino
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Musica/TOPLATINO/index.m3u8
+#EXTINF:0, MTV 00s
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Musica/MTV_00s/index.m3u8
+#EXTINF:0, Venus Media Music
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Musica/VENUS_MEDIA/index.m3u8
+#EXTINF:0, TUDN
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/TUDN/index.m3u8
+#EXTINF:0, Afizzionados
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8
+#EXTINF:0, Claro Sports
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
+#EXTINF:0, GolTV
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/GOLTV/index.m3u8
+#EXTINF:0, Directv
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/DIRECTV/index.m3u8
+#EXTINF:0, Directv 2
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_2/index.m3u8
+#EXTINF:0, Directv +
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_PLUS/index.m3u8
+#EXTINF:0, GolPeru
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/GOLPERU/index.m3u8
+#EXTINF:0, ESPN MX
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_MX/index.m3u8
+#EXTINF:0, ESPN 2 MX
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_2_MX/index.m3u8
+#EXTINF:0, ESPN 3 MX
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_3_MX/index.m3u8
+#EXTINF:0, Fox Sports MX
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_MX/index.m3u8
+#EXTINF:0, Fox Sports 2 MX
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_MX/index.m3u8
+#EXTINF:0, Fox Sports 3 MX
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_MX/index.m3u8
+#EXTINF:0, ESPN Sur
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_SUR/index.m3u8
+#EXTINF:0, ESPN 2 Sur
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_2_SUR/index.m3u8
+#EXTINF:0, ESPN 3 Sur
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_3_SUR/index.m3u8
+#EXTINF:0, Fox Sports Sur
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_SUR/index.m3u8
+#EXTINF:0, Fox Sports 2 Sur
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_SUR/index.m3u8
+#EXTINF:0, Fox Sports 3 Sur
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_SUR/index.m3u8
+#EXTINF:0, Bein Sports
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/BEING_SPORTS/index.m3u8
+#EXTINF:0, Win Sports
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/WIN_SPORTS/index.m3u8
+#EXTINF:0, Win Sports +
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/WIN_SPORTS_PLUS/index.m3u8
+#EXTINF:0, ESPN Extra
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_EXTRA/index.m3u8
+#EXTINF:0, TyC Sports
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/TYC_SPORTS/index.m3u8
+#EXTINF:0, WWE & WWF
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/WWE_WWF/index.m3u8
+#EXTINF:0, ESPN 4
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/ESPN4/index.m3u8
+#EXTINF:0, DAZN
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/DAZN/index.m3u8
+#EXTINF:0, DirecTV Sports (ARG)
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_ARG/index.m3u8
+#EXTINF:0, Real Madrid TV (ES)
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/RM_TV/index.m3u8
+#EXTINF:0, Manchester United TV
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/MAN_UNITEDTV/index.m3u8
+#EXTINF:0, NFL Channel
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/NFL_CHANNEL/index.m3u8
+#EXTINF:0, Tigo Sports CR
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/Tigo_Sports/index.m3u8
+#EXTINF:0, Adrenalina Sports Network
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/ADRENALINA/index.m3u8
+#EXTINF:0, MZ Sports CR
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/MZ_SPORTSCR/index.m3u8
+#EXTINF:0, TNT Sports BR
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/TNTSPORTS_BR/index.m3u8
+#EXTINF:0, Fox Sports Premium
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8
+#EXTINF:0, Tigo Sports PY
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/TIGO_PY/index.m3u8
+#EXTINF:0, Tigo Sports BO
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/TIGO_BO/index.m3u8
+#EXTINF:0, ECDF
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/ECDF_EC/index.m3u8
+#EXTINF:0, ESPN Deportes 
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_DEPORTES/index.m3u8
+#EXTINF:0, BeinSports   Extra
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/BEINSPORTS_EXTRA/index.m3u8
+#EXTINF:0, VTV Plus
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/Deportes/VTV_PLUS/index.m3u8
+#EXTINF:0, Principe del Rap
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/24_7/PRINCIPE_DEL_RAP/index.m3u8
+#EXTINF:0, Correcaminos
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/24_7/CORRECAMINOS/index.m3u8
+#EXTINF:0, Dinosaurios
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/24_7/DINOSAURIOS/index.m3u8
+#EXTINF:0, Ben 10
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/24_7/BEN_10/index.m3u8
+#EXTINF:0, Los Simpsons 247
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/24_7/SIMPSONS_247/index.m3u8
+#EXTINF:0, Dragon Ball
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/24_7/DRAGON_BALL/index.m3u8
+#EXTINF:0, South Park
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/24_7/SOUTH_PARK/index.m3u8
+#EXTINF:0, ALF
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/24_7/ALF/index.m3u8
+#EXTINF:0, Familia Peluche
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/24_7/FAMILIA_PELUCHE/index.m3u8
+#EXTINF:0, Doctor Who (24/7)
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/24_7/DOCTORWHO_247/index.m3u8
+#EXTINF:0, Chavo del 8
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/24_7/CHAVO_8/index.m3u8
+#EXTINF:0, CHESPIRITO
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/24_7/CHESPIRITO/index.m3u8
+#EXTINF:0, Don Gato y su Pandilla
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/24_7/DON_GATO/index.m3u8
+#EXTINF:0, Mi Bella Genio
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/24_7/BELLA_GENIO/index.m3u8
+#EXTINF:0, El Chapulin Colorado
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/24_7/CHAPULIN_COLORADO/index.m3u8
+#EXTINF:0, Digimon 24h
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/24_7/DIGIMON/index.m3u8
+#EXTINF:0, Terror 24/7
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/24_7/TERROR_247/index.m3u8
+#EXTINF:0, LOONEY TOONS
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8
+#EXTINF:0, Terror 24/7
+#EXTVLCOPT:network-caching=1000
+http://tv.teleclub.xyz/envivo/24_7/TERROR_247/index.m3u8
