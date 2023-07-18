@@ -269,8 +269,6 @@ http://177.53.153.21:8001/play/a09v/index.m3u8
 http://177.53.153.21:8001/play/a03e/index.m3u8
 #EXTINF:-1,Pasiones HD
 http://177.53.153.21:8001/play/a0at/index.m3u8
-#EXTINF:-1,PlayBoy HD
-http://177.53.153.21:8001/play/a032/index.m3u8
 #EXTINF:-1,RCN HD
 http://177.53.153.21:8001/play/a031/index.m3u8
 #EXTINF:-1,RCN Novelas
@@ -281,8 +279,6 @@ http://177.53.153.21:8001/play/a05k/index.m3u8
 http://177.53.153.21:8001/play/a022/index.m3u8
 #EXTINF:-1,STAR TVE HD
 http://177.53.153.21:8001/play/a03g/index.m3u8
-#EXTINF:-1,Sextreme
-http://177.53.153.21:8001/play/a01p/index.m3u8
 #EXTINF:-1,Sony HD
 http://177.53.153.21:8001/play/a01t/index.m3u8
 #EXTINF:-1,Sony Movies HD
@@ -347,8 +343,6 @@ http://177.53.153.21:8001/play/a09g/index.m3u8
 http://177.53.153.21:8001/play/a09f/index.m3u8
 #EXTINF:-1,Univision HD
 http://177.53.153.21:8001/play/a0au/index.m3u8
-#EXTINF:-1,Venus
-http://177.53.153.21:8001/play/a01o/index.m3u8
 #EXTINF:-1,WARNER HD
 http://177.53.153.21:8001/play/a08l/index.m3u8
 #EXTINF:-1,Warner Channel HD
