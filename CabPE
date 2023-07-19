@@ -19,11 +19,11 @@ http://177.53.153.21:8001/play/a03w/index.m3u8
 http://177.53.153.21:8001/play/a00v/index.m3u8
 #EXTINF:-1,TV PERU
 http://177.53.153.21:8001/play/a00x/index.m3u8
-#EXTINF:0, TV PERU NOTICIAS
+#EXTINF:-1,TV PERU NOTICIAS
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index.m3u8
 #EXTINF:-1,ATV
 http://177.53.153.21:8001/play/a00z/index.m3u8
-#EXTINF:-1, ATV+
+#EXTINF:-1,ATV+
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1,ATV SUR HD
 http://177.53.153.21:8001/play/a0ba/index.m3u8
@@ -35,11 +35,11 @@ http://177.53.153.21:8001/play/a00j/index.m3u8
 http://177.53.153.21:8001/play/a0b3/index.m3u8
 #EXTINF:-1,SOL TV HD
 http://177.53.153.21:8001/play/a00l/index.m3u8
-#EXTINF:0, VIVA
+#EXTINF:-1,VIVA
 https://5cefcbf58ba2e.streamlock.net:543/viva/viva/playlist.m3u8
-#EXTINF:0, UNITEL HYO
+#EXTINF:-1,UNITEL HYO
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
-#EXTINF:0, CADENA TV HYO
+#EXTINF:-1,CADENA TV HYO
 https://servilive.com:3079/live/cdnatvlive.m3u8
 #EXTINF:-1,CMD
 http://177.53.153.21:8001/play/a01b/index.m3u8
