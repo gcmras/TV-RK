@@ -1,49 +1,59 @@
 #EXTM3U
-#EXTINF:0, MAS TV
+#EXTINF:-1, MAS TV
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w472143367.m3u8
-#EXTINF:0, Tele RED
+#EXTINF:-1, Tele RED
 https://video20.klm99.com:3558/live/teleredlive.m3u8
-#EXTINF:0, ACS NETWORK
+#EXTINF:-1, ACS NETWORK
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
-#EXTINF:0, Mi TV
+#EXTINF:-1, Mi TV
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
-#EXTINF:0, STV
+#EXTINF:-1, STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
-#EXTINF:0, RETROPLUS TV
+#EXTINF:-1, RETROPLUS TV
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-#EXTINF:0, LATINA
-https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8?uid=F4wmuLjsYBiY3YthGLIpMDOMLyhxXLcF&sid=PIdgvRpSXAZ1NRnxLWkkbbbM7Heww7N0&pid=xgnzRsK144KRrj4w9Db15D2yMIMYnhLL&an=Media%20Stream%20TV%20en%20vivo&at=web-app&av=v5.2.338&ref=https%3A%2F%2Fwww.latina.pe%2F&res=703x395&without_cookies=false&listenerid=&dnt=true
-#EXTINF:0, PANAMERICANA
-https://stream-03.sv4.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFsLXvkFRP9EkOeYOMYW4aBRBH6Dbb4hw7MdVIp2CLHgS)/dm/3/x774s7s/s/live-3.m3u8#cell=lsv4
-#EXTINF:0, ATV
+#EXTINF:-1,Latina HD
+http://177.53.153.21:8001/play/a03x/index.m3u8
+#EXTINF:-1,America TV HD
+http://177.53.153.21:8001/play/a03w/index.m3u8
+#EXTINF:-1, PANAMERICANA
+http://177.53.153.21:8001/play/a00v/index.m3u8
+#EXTINF:-1, ATV
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv.m3u8
-#EXTINF:0, ATV+
+#EXTINF:-1, ATV+
 https://d22ast2s6i1kcc.cloudfront.net/hls/atv2.m3u8
-#EXTINF:0, VIVA
+#EXTINF:-1, VIVA
 https://5cefcbf58ba2e.streamlock.net:543/viva/viva/playlist.m3u8
-#EXTINF:0, TV PERU
+#EXTINF:-1, TV PERU
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
-#EXTINF:0, TV PERU NOTICIAS
+#EXTINF:-1, TV PERU NOTICIAS
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index.m3u8
-#EXTINF:0, IPE TV
+#EXTINF:-1,RED GLOBAL
+http://177.53.153.21:8001/play/a010/index.m3u8
+#EXTINF:-1,WILLAX
+http://177.53.153.21:8001/play/a00j/index.m3u8
+#EXTINF:-1, IPE TV
 https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
-#EXTINF:0, NATIVA TV
+#EXTINF:-1, NATIVA TV
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8?nimblesessionid=16160778
-#EXTINF:0, CGTN
+#EXTINF:-1, CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:0, RT
+#EXTINF:-1, RT
 https://rt-esp.rttv.com/dvr/rtesp/playlist_2500Kb.m3u8
-#EXTINF:0, UNITEL HYO
+#EXTINF:-1, UNITEL HYO
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
-#EXTINF:0, CADENA TV HYO
+#EXTINF:-1, CADENA TV HYO
 https://servilive.com:3079/live/cdnatvlive.m3u8
-#EXTINF:0, BHtv
+#EXTINF:-1, BHtv
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0, CENTRAL TV
+#EXTINF:-1, CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, EXITOSA TV
+#EXTINF:-1, EXITOSA TV
 https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
-#EXTINF:0, PAX TV
+#EXTINF:-1,GOLPERU HD
+http://177.53.153.21:8001/play/a03z/index.m3u8
+#EXTINF:-1,DIRECTV Liga 1 Max
+http://177.53.153.21:8001/play/a00h/index.m3u8
+#EXTINF:-1, PAX TV
 https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
 #EXTINF:0, Cartoon Network
 #EXTVLCOPT:network-caching=1000
