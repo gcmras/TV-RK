@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,001 - Willax HD
 http://201.218.137.232:4123/play/a01n/index.m3u8
 #EXTINF:-1,002 - Latina HD
@@ -6,15 +7,15 @@ http://201.218.137.232:4123/play/a00e/index.m3u8
 http://201.218.137.232:4123/play/a00w/index.m3u8
 #EXTINF:-1,004 - Panamericana HD
 http://201.218.137.232:4123/play/a01x/index.m3u8
-#EXTINF:-1,005 1 - Top Latino HD
+#EXTINF:-1,005 - Top Latino HD
 http://201.218.137.232:4123/play/a007/index.m3u8
 #EXTINF:-1,006 - Exitosa HD
 http://201.218.137.232:4123/play/a01y/index.m3u8
 #EXTINF:-1,007 - TV Peru HD
 http://201.218.137.232:4123/play/e01zk/index.m3u8
-#EXTINF:-1,008 2 - PERU NOTICIAS
+#EXTINF:-1,008 - PERU NOTICIAS
 https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index.m3u8
-#EXTINF:-1,009 3 - IPE HD
+#EXTINF:-1,009 - IPE HD
 http://201.218.137.232:4123/play/a016/index.m3u8
 #EXTINF:-1,010 - Karibeña HD
 http://201.218.137.232:4123/play/a020/index.m3u8
@@ -34,7 +35,7 @@ http://201.218.137.232:4123/play/a02b/index.m3u8
 http://201.218.137.232:4123/play/a02c/index.m3u8
 #EXTINF:-1,018 - Nuevo Tiempo HD
 http://201.218.137.232:4123/play/a02f/index.m3u8
-#EXTINF:-1,019 1 - JN19TV HD
+#EXTINF:-1,019 - JN19TV HD
 http://201.218.137.232:4123/play/a018/index.m3u8
 #EXTINF:-1,020 - Bethel HD
 http://201.218.137.232:4123/play/a02k/index.m3u8
@@ -60,7 +61,7 @@ http://201.218.137.232:4123/play/a05k/index.m3u8
 http://201.218.137.232:4123/play/a00n/index.m3u8
 #EXTINF:-1,031 - Canal 10 HD
 http://201.218.137.232:4123/play/a00x/index.m3u8
-#EXTINF:-1,032 1 - DW En Español HD
+#EXTINF:-1,032 - DW En Español HD
 http://201.218.137.232:4123/play/a03e/index.m3u8
 #EXTINF:-1,033 - CGTN HD
 http://201.218.137.232:4123/play/a011/index.m3u8
@@ -78,7 +79,7 @@ http://201.218.137.232:4123/play/a00y/index.m3u8
 http://201.218.137.232:4123/play/a030/index.m3u8
 #EXTINF:-1,040 - Univision HD
 http://201.218.137.232:4123/play/a031/index.m3u8
-#EXTINF:-1,041 1 - Corazon HD
+#EXTINF:-1,041 - Corazon HD
 http://201.218.137.232:4123/play/a00f/index.m3u8
 #EXTINF:-1,042 1 - RCN HD
 http://201.218.137.232:4123/play/a00d/index.m3u8
