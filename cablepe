@@ -30,7 +30,7 @@ http://201.218.137.232:4123/play/a024/index.m3u8
 #EXTINF:-1,015 - Global HD
 http://201.218.137.232:4123/play/a025/index.m3u8
 #EXTINF:-1,016 - CANAL N
-http://200.123.15.177:1982/play/a03e/index.m3u8
+http://200.123.15.181:7087/play/a03e/index.m3u8
 #EXTINF:-1,017 - RPP
 http://200.123.15.177:1982/play/a03p/index.m3u8
 #EXTINF:-1,018 - USMP HD
