@@ -54,7 +54,7 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1,027 - STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1,028 - RETROPLUS TV
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w501084101.m3u8
 #EXTINF:-1,029 - France 24 HD
 http://201.218.137.232:4123/play/a05k/index.m3u8
 #EXTINF:-1,030 - Canal 24 Horas HD
