@@ -43,10 +43,10 @@ http://170.81.240.10:8000/play/a00l/index.m3u8
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1,022  CADENA TV HYO
 https://servilive.com:3079/live/cdnatvlive.m3u8
-#EXTINF:-1,023  MAS TV
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w472143367.m3u8
+#EXTINF:-1,023  TELESISTEMA
+https://video20.klm99.com:3621/live/mastelevisionlive.m3u8
 #EXTINF:-1,024  Tele RED
-https://video20.klm99.com:3558/live/teleredlive.m3u8
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w101871666.m3u8
 #EXTINF:-1,025  ACS NETWORK
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 #EXTINF:-1,026  Mi TV
