@@ -46,9 +46,9 @@ https://servilive.com:3079/live/cdnatvlive.m3u8
 #EXTINF:-1,023  TELESISTEMA
 https://video20.klm99.com:3621/live/mastelevisionlive.m3u8
 #EXTINF:-1,024  Tele RED
-https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w101871666.m3u8
+https://video20.klm99.com:3558/live/teleredlive.m3u8
 #EXTINF:-1,025  ACS NETWORK
-https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w101871666.m3u8
 #EXTINF:-1,026  Mi TV
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1,027  STV
@@ -68,7 +68,7 @@ http://45.166.92.22:58001/play/a00r/index.m3u8
 #EXTINF:-1,034  Miami TV
 http://170.81.240.10:8000/play/a015/index.m3u8
 #EXTINF:-1,035  E Entertainment
-http://177.53.153.21:8001/play/a06b/index.m3u8
+http://131.196.194.14:8001/play/a00r
 #EXTINF:-1,036  Discovery Home & Health
 http://45.166.92.22:58001/play/a027/index.m3u8
 #EXTINF:-1,037  DHE PELICULAS
