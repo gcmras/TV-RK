@@ -22,9 +22,9 @@ http://170.81.240.10:8000/play/a00j/index.m3u8
 #EXTINF:-1,011  Asiri Tv
 http://170.81.240.10:8000/play/a00k/index.m3u8
 #EXTINF:-1,012  Canal N
-http://200.123.15.177:1982/play/a03e/index.m3u8
+http://190.216.162.155:8001/play/a09e
 #EXTINF:-1,013  Rpp
-http://200.123.15.177:1982/play/a03p/index.m3u8
+http://190.216.162.155:8001/play/a09u
 #EXTINF:-1,014  Usmp Tv
 http://170.81.240.10:8000/play/a00c/index.m3u8
 #EXTINF:-1,015  Nativa
@@ -68,11 +68,11 @@ http://45.166.92.22:58001/play/a00r/index.m3u8
 #EXTINF:-1,034  Miami Tv
 http://170.81.240.10:8000/play/a015/index.m3u8
 #EXTINF:-1,035  E Entertainment
-http://138.59.177.34:8000/play/a030/index.m3u8
+http://190.216.162.155:8001/play/a027
 #EXTINF:-1,036  Discovery Home & Health
 http://45.166.92.22:58001/play/a027/index.m3u8
 #EXTINF:-1,037  Dhe Peliculas
-http://45.166.92.22:58001/play/a00v/index.m3u8
+http://190.216.162.155:8001/play/a02m
 #EXTINF:-1,038  Studio Universal Hd
 http://45.166.92.22:58001/play/a00k/index.m3u8
 #EXTINF:-1,039  Universal Cinema
@@ -130,7 +130,7 @@ http://170.81.240.10:8000/play/a01z/index.m3u8
 #EXTINF:-1,065  Star Channel
 http://170.81.240.10:8000/play/a020/index.m3u8
 #EXTINF:-1,066  De Pelicula
-http://186.148.184.163:8000/play/a050
+http://190.216.162.155:8001/play/a073
 #EXTINF:-1,067  Fmh Family Hd
 http://51.222.110.182:8000/play/a00o
 #EXTINF:-1,068  Espn
@@ -182,6 +182,11 @@ http://170.81.240.10:8000/play/a00b/index.m3u8
 #EXTINF:-1,091  Karavana Tv
 http://170.81.240.10:8000/play/a00m/index.m3u8
 #EXTINF:-1,092  Top Latino
+http://170.81.240.10:8000/play/a00n/index.m3u8
+#EXTINF:-1,093  Ritmo X
+http://170.81.240.10:8000/play/a00o/index.m3u8
+#EXTINF:-1,094  Tropical Moon
+http://170.81.240.10:8000/play/a00p/index.m3u8
 http://170.81.240.10:8000/play/a00n/index.m3u8
 #EXTINF:-1,093  Ritmo X
 http://170.81.240.10:8000/play/a00o/index.m3u8
