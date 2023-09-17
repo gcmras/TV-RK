@@ -6,7 +6,7 @@ http://170.81.240.10:8000/play/a002/index.m3u8
 #EXTINF:-1,003  America Tv
 http://170.81.240.10:8000/play/a003/index.m3u8
 #EXTINF:-1,004  Panamerica
-http://170.81.240.10:8000/play/a004/index.m3u8
+http://191.97.60.193:10000/play/a024/index.m3u8
 #EXTINF:-1,005  Tv Peru
 http://170.81.240.10:8000/play/a005/index.m3u8
 #EXTINF:-1,006  Atv
@@ -25,10 +25,10 @@ http://170.81.240.10:8000/play/a00k/index.m3u8
 http://190.216.162.155:8001/play/a09e
 #EXTINF:-1,013  Rpp
 http://190.216.162.155:8001/play/a09u
-#EXTINF:-1,014  Usmp Tv
-http://170.81.240.10:8000/play/a00c/index.m3u8
+#EXTINF:-1,014  Tele Lima
+http://191.97.60.193:10000/play/a020/index.m3u8
 #EXTINF:-1,015  Nativa
-http://170.81.240.10:8000/play/a00d/index.m3u8
+http://191.97.60.193:10000/play/a02l/index.m3u8
 #EXTINF:-1,016  Exitosa
 http://170.81.240.10:8000/play/a009/index.m3u8
 #EXTINF:-1,017  Fuego Tv
@@ -134,29 +134,29 @@ http://190.216.162.155:8001/play/a073
 #EXTINF:-1,067  Fmh Family Hd
 http://51.222.110.182:8000/play/a00o
 #EXTINF:-1,068  Espn
-http://170.81.240.10:8000/play/a00x/index.m3u8
+http://209.45.81.84:8000/play/a00m
 #EXTINF:-1,069  Espn 2
-http://170.81.240.10:8000/play/a00y/index.m3u8
-#EXTINF:-1,070  Espn Extra
-http://170.81.240.10:8000/play/a00z/index.m3u8
+http://209.45.81.84:8000/play/a01d
+#EXTINF:-1,070  Espn 3
+http://209.45.81.84:8000/play/a01b
 #EXTINF:-1,071  Espn 4
-http://170.81.240.10:8000/play/a010/index.m3u8
+http://209.45.81.84:8000/play/a01p
 #EXTINF:-1,072  Fox Sports 2
-http://170.81.240.10:8000/play/a011/index.m3u8
+http://209.45.81.84:8000/play/a03e
 #EXTINF:-1,073  Fox Sports 3
-http://170.81.240.10:8000/play/a012/index.m3u8
+http://209.45.81.84:8000/play/a01c
 #EXTINF:-1,074  Liga 1 Max  Hd
 http://209.45.81.84:8000/play/a00c
 #EXTINF:-1,075  Dsports Hd
-http://181.177.255.253:8000/play/a075/index.m3u8
-#EXTINF:-1,076  Dsports 2 Hd
-http://181.177.255.253:8000/play/a076/index.m3u8
-#EXTINF:-1,077  Dsports + Hd
-http://181.177.255.253:8000/play/a078/index.m3u8
-#EXTINF:-1,078  Tnt Sports Hd
-http://181.177.255.253:8000/play/a00a/index.m3u8
+http://209.45.81.84:8000/play/a03d
+#EXTINF:-1,076  Golperu Hd
+http://209.45.81.84:8000/play/a00a
+#EXTINF:-1,077  Goltv Hd
+http://209.45.81.84:8000/play/a006
+#EXTINF:-1,078  Movistar Deportes Hd
+http://209.45.81.84:8000/play/a002
 #EXTINF:-1,079  Tyc
-http://45.166.92.22:58001/play/a04d/index.m3u8
+http://209.45.81.84:8000/play/a009
 #EXTINF:-1,080  Discovery Kids
 http://45.166.92.22:58001/play/a04y/index.m3u8
 #EXTINF:-1,081  Fmh Kids Hd
@@ -164,13 +164,13 @@ http://51.222.110.182:8000/play/a00n
 #EXTINF:-1,082  National Geographic
 http://170.81.240.10:8000/play/a014/index.m3u8
 #EXTINF:-1,083  Discovery Channel
-http://45.166.92.22:58001/play/a01n/index.m3u8
+http://209.45.81.84:8000/play/a02l
 #EXTINF:-1,084  Discovery Id
 http://45.166.92.22:58001/play/a01s/index.m3u8
 #EXTINF:-1,085  Discovery Turbo
 http://45.166.92.22:58001/play/a026/index.m3u8
 #EXTINF:-1,086  Discovery World Hd
-http://45.166.92.22:58001/play/a01p/index.m3u8
+http://209.45.81.84:8000/play/a023
 #EXTINF:-1,087  History Channel
 http://170.81.240.10:8000/play/a018/index.m3u8
 #EXTINF:-1,088  History 2
