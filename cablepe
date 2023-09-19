@@ -22,13 +22,13 @@ http://170.81.240.10:8000/play/a00j/index.m3u8
 #EXTINF:-1,011  Asiri Tv
 http://170.81.240.10:8000/play/a00k/index.m3u8
 #EXTINF:-1,012  Canal N
-http://190.216.162.155:8001/play/a09e
+http://190.116.90.43:8000/play/a004
 #EXTINF:-1,013  Rpp
-http://190.216.162.155:8001/play/a09u
+http://190.116.90.43:8000/play/a00a
 #EXTINF:-1,014  Tele Lima
 http://191.97.60.193:10000/play/a020/index.m3u8
 #EXTINF:-1,015  Nativa
-http://191.97.60.193:10000/play/a02l/index.m3u8
+http://170.81.240.10:8000/play/a00d/index.m3u8
 #EXTINF:-1,016  Exitosa
 http://170.81.240.10:8000/play/a009/index.m3u8
 #EXTINF:-1,017  Fuego Tv
@@ -44,9 +44,9 @@ https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1,022  Cadena Tv Hyo
 https://servilive.com:3079/live/cdnatvlive.m3u8
 #EXTINF:-1,023  Telesistema
-https://video20.klm99.com:3621/live/mastelevisionlive.m3u8
+https://video20.klm99.com:3621/hybrid/play.m3u8
 #EXTINF:-1,024  Tele Red
-https://video20.klm99.com:3558/live/teleredlive.m3u8
+https://video20.klm99.com:3558/hybrid/play.m3u8
 #EXTINF:-1,025  Acs Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w101871666.m3u8
 #EXTINF:-1,026  Mi Tv
@@ -70,7 +70,7 @@ http://170.81.240.10:8000/play/a015/index.m3u8
 #EXTINF:-1,035  E Entertainment
 http://190.216.162.155:8001/play/a027
 #EXTINF:-1,036  Discovery Home & Health
-http://45.166.92.22:58001/play/a027/index.m3u8
+http://170.81.240.10:8000/play/a01a/index.m3u8
 #EXTINF:-1,037  Dhe Peliculas
 http://190.216.162.155:8001/play/a02m
 #EXTINF:-1,038  Studio Universal Hd
@@ -138,17 +138,17 @@ http://186.10.252.90:8000/play/a02k
 #EXTINF:-1,069  Rewind
 http://186.10.252.90:8000/play/a02m
 #EXTINF:-1,070  Espn
-http://209.45.81.84:8000/play/a00m
+http://170.81.240.10:8000/play/a00x/index.m3u8
 #EXTINF:-1,071  Espn 2
-http://209.45.81.84:8000/play/a01d
+http://170.81.240.10:8000/play/a00y/index.m3u8
 #EXTINF:-1,072  Espn 3
 http://209.45.81.84:8000/play/a01b
 #EXTINF:-1,073  Espn 4
-http://209.45.81.84:8000/play/a01p
+http://170.81.240.10:8000/play/a010/index.m3u8
 #EXTINF:-1,074  Fox Sports 2
-http://209.45.81.84:8000/play/a03e
+http://170.81.240.10:8000/play/a011/index.m3u8
 #EXTINF:-1,075  Fox Sports 3
-http://209.45.81.84:8000/play/a01c
+http://170.81.240.10:8000/play/a012/index.m3u8
 #EXTINF:-1,076  Liga 1 Max  Hd
 http://209.45.81.84:8000/play/a00c
 #EXTINF:-1,077  Dsports Hd
@@ -171,31 +171,35 @@ http://200.123.230.5:8000/play/a009
 http://200.123.230.5:8000/play/a06h
 #EXTINF:-1,086  Animotion
 http://45.173.201.50:4000/play/a01e
-#EXTINF:-1,087  National Geographic
+#EXTINF:-1,087  1042 Funbox
+http://170.81.240.10:8000/play/a01b/index.m3u8
+#EXTINF:-1,088  1043 Cartoon Netwok
+http://170.81.240.10:8000/play/a01c/index.m3u8
+#EXTINF:-1,089  National Geographic
 http://170.81.240.10:8000/play/a014/index.m3u8
-#EXTINF:-1,088  Discovery Channel
-http://200.123.230.5:8000/play/a06s
-#EXTINF:-1,089  Discovery Id
+#EXTINF:-1,090  Discovery Channel
+http://170.81.240.10:8000/play/a016/index.m3u8
+#EXTINF:-1,091  Discovery Id
 http://45.166.92.22:58001/play/a01s/index.m3u8
-#EXTINF:-1,090  Discovery Turbo
+#EXTINF:-1,092  Discovery Turbo
 http://200.123.230.5:8000/play/a002
-#EXTINF:-1,091  Discovery World Hd
+#EXTINF:-1,093  Discovery World Hd
 http://200.123.230.5:8000/play/a05n
-#EXTINF:-1,092  History Channel
-http://200.123.230.5:8000/play/a045
-#EXTINF:-1,093  History 2
-http://200.123.230.5:8000/play/a06u
-#EXTINF:-1,094  Animal Planet
-http://200.123.230.5:8000/play/a060
-#EXTINF:-1,095  Love Nature Hd
-http://200.123.230.5:8000/play/a06j
-#EXTINF:-1,096  Tierra Mia
+#EXTINF:-1,094  History Channel
+http://170.81.240.10:8000/play/a018/index.m3u8
+#EXTINF:-1,095  History 2
+http://170.81.240.10:8000/play/a017/index.m3u8
+#EXTINF:-1,096  Animal Planet
+http://170.81.240.10:8000/play/a019/index.m3u8
+#EXTINF:-1,097  Love Nature Hd
+http://45.189.117.32:7076/play/a0jr/index.m3u8
+#EXTINF:-1,098  Tierra Mia
 http://170.81.240.10:8000/play/a00b/index.m3u8
-#EXTINF:-1,097  Karavana Tv
+#EXTINF:-1,099  Karavana Tv
 http://170.81.240.10:8000/play/a00m/index.m3u8
-#EXTINF:-1,098  Top Latino
+#EXTINF:-1,0100  Top Latino
 http://170.81.240.10:8000/play/a00n/index.m3u8
-#EXTINF:-1,099  Ritmo X
+#EXTINF:-1,0101  Ritmo X
 http://170.81.240.10:8000/play/a00o/index.m3u8
-#EXTINF:-1,0100  Tropical Moon
+#EXTINF:-1,0102  Tropical Moon
 http://170.81.240.10:8000/play/a00p/index.m3u8
