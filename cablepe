@@ -135,7 +135,7 @@ http://190.216.162.155:8001/play/a073
 http://51.222.110.182:8000/play/a00o
 #EXTINF:-1,068  Fmh Movie
 http://186.10.252.90:8000/play/a02k
-#¡VALOR!
+#EXTINF:-1,069  Rewind
 http://186.10.252.90:8000/play/a02m
 #EXTINF:-1,070  Espn
 http://209.45.81.84:8000/play/a00m
@@ -169,7 +169,7 @@ http://51.222.110.182:8000/play/a00n
 http://200.123.230.5:8000/play/a009
 #EXTINF:-1,085  Lolly Kids Hd
 http://200.123.230.5:8000/play/a06h
-#¡VALOR!
+#EXTINF:-1,086  Animotion
 http://45.173.201.50:4000/play/a01e
 #EXTINF:-1,087  National Geographic
 http://170.81.240.10:8000/play/a014/index.m3u8
