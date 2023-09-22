@@ -197,9 +197,9 @@ http://45.189.117.32:7076/play/a0jr/index.m3u8
 http://170.81.240.10:8000/play/a00b/index.m3u8
 #EXTINF:-1,099  Karavana Tv
 http://170.81.240.10:8000/play/a00m/index.m3u8
-#EXTINF:-1,0100  Top Latino
+#EXTINF:-1,100  Top Latino
 http://170.81.240.10:8000/play/a00n/index.m3u8
-#EXTINF:-1,0101  Ritmo X
+#EXTINF:-1,101  Ritmo X
 http://170.81.240.10:8000/play/a00o/index.m3u8
-#EXTINF:-1,0102  Tropical Moon
+#EXTINF:-1,102  Tropical Moon
 http://170.81.240.10:8000/play/a00p/index.m3u8
