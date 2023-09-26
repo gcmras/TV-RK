@@ -65,8 +65,8 @@ http://161.132.243.192:50001/play/a02s/index.m3u8
 http://161.132.243.192:50001/play/a033/index.m3u8
 #EXTINF:-1,033  Telemundo
 http://161.132.243.192:50001/play/a02x/index.m3u8
-#EXTINF:-1,034  Miami Tv
-http://170.81.240.10:8000/play/a015/index.m3u8
+#EXTINF:-1,034  Canal Claro Hd
+http://161.132.243.192:50001/play/a031/index.m3u8
 #EXTINF:-1,035  E Entertainment
 http://161.132.243.192:50001/play/a01h/index.m3u8
 #EXTINF:-1,036  Discovery Home & Health
