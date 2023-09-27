@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1,001  Willax
-http://170.81.240.10:8000/play/a001/index.m3u8
+http://161.132.243.192:50001/play/a028/index.m3u8
 #EXTINF:-1,002  Latina
-http://170.81.240.10:8000/play/a002/index.m3u8
+http://161.132.243.192:50001/play/a029/index.m3u8
 #EXTINF:-1,003  America Tv
-http://170.81.240.10:8000/play/a003/index.m3u8
+http://161.132.243.192:50001/play/a02a/index.m3u8
 #EXTINF:-1,004  Panamerica
-http://170.81.240.10:8000/play/a004/index.m3u8
+http://161.132.243.192:50001/play/a02b/index.m3u8
 #EXTINF:-1,005  Tv Peru
-http://170.81.240.10:8000/play/a005/index.m3u8
+http://161.132.243.192:50001/play/a02e/index.m3u8
 #EXTINF:-1,006  Atv
-http://170.81.240.10:8000/play/a006/index.m3u8
+http://161.132.243.192:50001/play/a02h/index.m3u8
 #EXTINF:-1,007  Atv Plus
-http://170.81.240.10:8000/play/a007/index.m3u8
+http://161.132.243.192:50001/play/a02i/index.m3u8
 #EXTINF:-1,008  Atv Sur
-http://170.81.240.10:8000/play/a008/index.m3u8
+http://161.132.243.192:50001/play/a02j/index.m3u8
 #EXTINF:-1,009  Global Tv
-http://170.81.240.10:8000/play/a00a/index.m3u8
+http://161.132.243.192:50001/play/a02k/index.m3u8
 #EXTINF:-1,010  La Tele
-http://170.81.240.10:8000/play/a00j/index.m3u8
+http://161.132.243.192:50001/play/a043/index.m3u8
 #EXTINF:-1,011  Asiri Tv
 http://170.81.240.10:8000/play/a00k/index.m3u8
 #EXTINF:-1,012  Canal N
