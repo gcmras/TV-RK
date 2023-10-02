@@ -234,7 +234,7 @@ http://161.132.243.192:50001/play/a04j/index.m3u8
 #EXTINF:-1,  Fmh Kids
 http://186.10.252.90:8000/play/a02j
 #EXTINF:-1,  Animotion
-http://186.10.252.90:8000/play/a03w
+http://186.10.252.90:8000/play/a04f
 #EXTINF:-1,  Ipe Hd
 http://161.132.243.192:50001/play/a02f/index.m3u8
 #EXTINF:-1,  National Geographic
@@ -257,6 +257,8 @@ http://161.132.243.192:50001/play/a01w/index.m3u8
 http://161.132.243.192:50001/play/a01e/index.m3u8
 #EXTINF:-1,  Love Nature Hd
 http://161.132.243.192:50001/play/a01p/index.m3u8
+#EXTINF:-1,  Atlas
+http://186.10.252.90:8000/play/a03w
 #EXTINF:-1,  Mtv Hd
 http://161.132.243.192:50001/play/a01s/index.m3u8
 #EXTINF:-1,  Mtv Live Hd
