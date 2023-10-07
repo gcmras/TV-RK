@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTINF:-1,  Willax
-http://38.43.150.123:8000/play/a00d/index.m3u8
+http://161.132.243.192:50001/play/a028/index.m3u8
 #EXTINF:-1,  Latina
-http://38.43.150.123:8000/play/a03h/index.m3u8
+http://161.132.243.192:50001/play/a029/index.m3u8
 #EXTINF:-1,  America Tv
-http://38.43.150.123:8000/play/a03g/index.m3u8
+http://161.132.243.192:50001/play/a02a/index.m3u8
 #EXTINF:-1,  Panamerica
-http://38.43.150.123:8000/play/a00k/index.m3u8
+http://161.132.243.192:50001/play/a02b/index.m3u8
 #EXTINF:-1,  Tv Peru
-http://38.43.150.123:8000/play/a00n/index.m3u8
+http://161.132.243.192:50001/play/a02e/index.m3u8
 #EXTINF:-1,  Atv
-http://38.43.150.123:8000/play/a03y/index.m3u8
+http://161.132.243.192:50001/play/a02h/index.m3u8
 #EXTINF:-1,  Atv Plus
-http://38.43.150.123:8000/play/a04h/index.m3u8
+http://161.132.243.192:50001/play/a02i/index.m3u8
 #EXTINF:-1,  Atv Sur
-http://38.43.150.123:8000/play/a040/index.m3u8
+http://161.132.243.192:50001/play/a02j/index.m3u8
 #EXTINF:-1,  Global Tv
-http://38.43.150.123:8000/play/a04m/index.m3u8
+http://161.132.243.192:50001/play/a02k/index.m3u8
 #EXTINF:-1,  La Tele
 http://161.132.243.192:50001/play/a043/index.m3u8
 #EXTINF:-1,  Asiri Tv
-http://170.81.240.10:8000/play/a00k/index.m3u8
+http://191.97.60.193:10000/play/a06c/index.m3u8
 #EXTINF:-1,  Canal N
 http://161.132.243.192:50001/play/a02o/index.m3u8
 #EXTINF:-1,  Rpp
@@ -28,17 +28,9 @@ http://161.132.243.192:50001/play/a02n/index.m3u8
 #EXTINF:-1,  Tele Lima
 http://191.97.60.193:10000/play/a020/index.m3u8
 #EXTINF:-1,  Nativa
-http://170.81.240.10:8000/play/a00d/index.m3u8
+http://191.97.60.193:10000/play/a02l/index.m3u8
 #EXTINF:-1,  Exitosa
-http://161.132.243.192:50001/play/a02d/index.m3u8
-#EXTINF:-1,  Fuego Tv
-http://170.81.240.10:8000/play/a00g/index.m3u8
-#EXTINF:-1,  Gamarra Channel
-http://170.81.240.10:8000/play/a00h/index.m3u8
-#EXTINF:-1,  Peru Gtv
-http://170.81.240.10:8000/play/a00i/index.m3u8
-#EXTINF:-1,  Onda Tv
-http://170.81.240.10:8000/play/a00l/index.m3u8
+http://191.97.60.193:10000/play/a03c/index.m3u8
 #EXTINF:-1,  Unitel Hyo
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1,  Cadena Tv Hyo
