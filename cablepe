@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1,  Willax
-http://38.56.119.119:8000/play/a04n/index.m3u8
+https://www.dailymotion.com/cdn/live/video/x7x4dgx.m3u8?sec=DcTPX3JZopEHrzL3WpiDmd4hCLb2EuVxOc0Tb9TXdOq6CgdcI9zH1CMTL7fuPuEx&dmTs=33069&dmV1st=909c2485-a47f-42 0a-b449-b36c67fc9fe2
 #EXTINF:-1,  Latina
-http://38.56.119.119:8000/play/a034/index.m3u8
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8?uid=F4wmuLjsYBiY3YthGLIpMDOMLyhxXLcF&sid=SHf7kZR0rf83xLhOYlnJ7lfcIH12dNhi&pid=B6WybLQCBcgnFBGlH7 VVGGu1lQSAt2T8&an=Media%20Stream%20TV%20en%20vivo&at=web-app&av=v5.2.380&ref=https%3A%2F %2Fwww.latina.pe%2F&res=703x395& without_cookies=false&listenerid=&dnt=true
 #EXTINF:-1,  America Tv
-http://38.56.119.119:8000/play/a033/index.m3u8
+https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=F4wmuLjsYBiY3YthGLIpMDOMLyhxXLcF&sid=SHf7kZR0rf83xLhOYlnJ7lfcIH12dNhi&pid=LesZ73nockOKHDFUdm1NkTdP9lX0wdKS&an=screen&at=web-app&av=v5.2.380&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=1263x711&without_cookies=false&listenerid=&dnt=true&access_token=K5qJI0xMxU64xKSkElTBtgYqznZAXeB5kcOwYqfj9S9rXXL2n6aMEth2IYnZXc3gcnQQDNLkZGp
 #EXTINF:-1,  Panamerica
-http://38.56.119.119:8000/play/a038/index.m3u8
+https://www.dailymotion.com/cdn/live/video/x774s7s.m3u8?sec=kBUtINWvIwnp6RQVQFjri0rYt-LLxkzYrY-TTxTXJzvTifaxY-B0NzHd3EURQolZ&dmTs=33069&dmV1st=909c2485-a47f-420a-b449-b36c67fc9fe2
 #EXTINF:-1,  Tv Peru
-http://38.56.119.119:8000/play/a03a/index.m3u8
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
 #EXTINF:-1,  Atv
-http://38.56.119.119:8000/play/a03c/index.m3u8
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 #EXTINF:-1,  Atv Plus
-http://38.56.119.119:8000/play/a04m/index.m3u8
+https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
 #EXTINF:-1,  Atv Sur
-http://161.132.243.192:50001/play/a02j/index.m3u8
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 #EXTINF:-1,  Global Tv
 http://38.56.119.119:8000/play/a03d/index.m3u8
 #EXTINF:-1,  La Tele
