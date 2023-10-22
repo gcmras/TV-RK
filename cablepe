@@ -6,7 +6,7 @@ http://38.56.119.119:8000/play/a034/index.m3u8
 #EXTINF:-1,  America Tv
 http://38.56.119.119:8000/play/a033/index.m3u8
 #EXTINF:-1,  Panamerica
-https://www.dailymotion.com/cdn/live/video/x774s7s.m3u8?sec=kBUtINWvIwnp6RQVQFjri0rYt-LLxkzYrY-TTxTXJzvTifaxY-B0NzHd3EURQolZ&dmTs=33069&dmV1st=909c2485-a47f-420a-b449-b36c67fc9fe2
+https://cdn75.iblups.com/hls/stream.m3u8
 #EXTINF:-1,  Tv Peru
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
 #EXTINF:-1,  Atv
