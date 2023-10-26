@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1,  Willax
-http://45.189.117.202:48000/play/a004/index.m3u8
+http://187.102.208.108:50001/play/a028/index.m3u8
 #EXTINF:-1,  Latina
-http://45.189.117.202:48000/play/1/index.m3u8
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 #EXTINF:-1,  America Tv
-http://45.189.117.202:48000/play/a001/index.m3u8
+http://187.102.208.108:50001/play/a02a/index.m3u8
 #EXTINF:-1,  Panamerica
-http://45.189.117.202:48000/play/a032/index.m3u8
+https://cdn75.iblups.com/hls/stream.m3u8
 #EXTINF:-1,  Tv Peru
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index.m3u8
 #EXTINF:-1,  Atv
@@ -16,21 +16,21 @@ https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sd
 #EXTINF:-1,  Atv Sur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 #EXTINF:-1,  Global Tv
-http://45.189.117.202:48000/play/a007/index.m3u8
+http://187.102.208.108:50001/play/a02k/index.m3u8
 #EXTINF:-1,  La Tele
-http://45.189.117.202:48000/play/a002/index.m3u8
+http://187.102.208.108:50001/play/a043/index.m3u8
 #EXTINF:-1,  Asiri Tv
-http://191.97.60.193:10000/play/a06c/index.m3u8
+https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1,  Canal N
-http://161.132.243.192:50001/play/a02o/index.m3u8
+http://187.102.208.108:50001/play/a02o/index.m3u8
 #EXTINF:-1,  Rpp
-http://161.132.243.192:50001/play/a02n/index.m3u8
+http://187.102.208.108:50001/play/a02n/index.m3u8
 #EXTINF:-1,  Tele Lima
-http://191.97.60.193:10000/play/a020/index.m3u8
+https://mserver.latincable.net/TeleLimaSD/index.m3u8
 #EXTINF:-1,  Nativa
-http://191.97.60.193:10000/play/a02l/index.m3u8
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1,  Exitosa
-http://45.189.117.202:48000/play/a00a/index.m3u8
+http://187.102.208.108:50001/play/a02d/index.m3u8
 #EXTINF:-1,  Unitel Hyo
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1,  Cadena Tv Hyo
@@ -48,103 +48,103 @@ https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1,  Retroplus Tv
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w501084101.m3u8
 #EXTINF:-1,  Las Estrellas Hd
-http://161.132.243.192:50001/play/a01t/index.m3u8
+http://190.102.139.244:8900/play/a0xj/index.m3u8
 #EXTINF:-1,  Rt Espanol
-http://161.132.243.192:50001/play/a02u/index.m3u8
+http://187.102.208.108:50001/play/a02u/index.m3u8
 #EXTINF:-1,  Dw
-http://161.132.243.192:50001/play/a02s/index.m3u8
+http://190.102.139.244:8900/play/a10f/index.m3u8
 #EXTINF:-1,  Tlc
-http://161.132.243.192:50001/play/a033/index.m3u8
+http://190.102.139.244:8900/play/a0wt/index.m3u8
 #EXTINF:-1,  Telemundo
-http://161.132.243.192:50001/play/a02x/index.m3u8
-#EXTINF:-1,  Canal Claro Hd
-http://161.132.243.192:50001/play/a031/index.m3u8
+http://190.102.139.244:8900/play/a0tl/index.m3u8
+#EXTINF:-1,  Movistar Plus
+http://190.102.139.244:8900/play/a0tc/index.m3u8
 #EXTINF:-1,  E Entertainment
-http://161.132.243.192:50001/play/a01h/index.m3u8
+http://190.102.139.244:8900/play/a0wa/index.m3u8
 #EXTINF:-1,  Discovery Home & Health
-http://161.132.243.192:50001/play/a00r/index.m3u8
+http://190.102.139.244:8900/play/a0nd/index.m3u8
 #EXTINF:-1,  Universal Channel Hd
-http://161.132.243.192:50001/play/a00t/index.m3u8
+http://190.102.139.244:8900/play/a0ng/index.m3u8
 #EXTINF:-1,  Universal Cinema Hd
-http://161.132.243.192:50001/play/a03c/index.m3u8
+http://187.102.208.108:50001/play/a03c/index.m3u8
 #EXTINF:-1,  Universal Premier Hd
-http://161.132.243.192:50001/play/a03d/index.m3u8
+http://187.102.208.108:50001/play/a03d/index.m3u8
 #EXTINF:-1,  Universal Reality Hd
-http://161.132.243.192:50001/play/a03f/index.m3u8
+http://187.102.208.108:50001/play/a03f/index.m3u8
 #EXTINF:-1,  Universal Crime Hd
-http://161.132.243.192:50001/play/a03b/index.m3u8
+http://187.102.208.108:50001/play/a03b/index.m3u8
 #EXTINF:-1,  Universal Comedy Hd
-http://161.132.243.192:50001/play/a03g/index.m3u8
+http://187.102.208.108:50001/play/a03g/index.m3u8
 #EXTINF:-1,  Hbo Hd
-http://161.132.243.192:50001/play/a015/index.m3u8
+http://190.102.139.244:8900/play/a0o1/index.m3u8
 #EXTINF:-1,  Hbo 2 Hd
-http://161.132.243.192:50001/play/a01c/index.m3u8
+http://190.102.139.244:8900/play/a0o8/index.m3u8
 #EXTINF:-1,  Hbo Plus Hd
-http://161.132.243.192:50001/play/a03h/index.m3u8
+http://190.102.139.244:8900/play/a10r/index.m3u8
 #EXTINF:-1,  Hbo Family Hd
-http://161.132.243.192:50001/play/a01x/index.m3u8
+http://190.102.139.244:8900/play/a0xr/index.m3u8
 #EXTINF:-1,  Hbo Xtreme Hd
-http://161.132.243.192:50001/play/a01y/index.m3u8
+http://190.102.139.244:8900/play/a0xs/index.m3u8
 #EXTINF:-1,  Hbo Pop Hd
-http://161.132.243.192:50001/play/a007/index.m3u8
+http://190.102.139.244:8900/play/a0sz/index.m3u8
 #EXTINF:-1,  Hbo Signature Hd
-http://161.132.243.192:50001/play/a03i/index.m3u8
+http://190.102.139.244:8900/play/a10s/index.m3u8
 #EXTINF:-1,  Sony Movies Hd
-http://161.132.243.192:50001/play/a03j/index.m3u8
+http://187.102.208.108:50001/play/a03j/index.m3u8
 #EXTINF:-1,  Sony Channel Hd
-http://161.132.243.192:50001/play/a002/index.m3u8
+http://187.102.208.108:50001/play/a002/index.m3u8
 #EXTINF:-1,  Cinemax Hd
-http://161.132.243.192:50001/play/a00l/index.m3u8
+http://190.102.139.244:8900/play/a0n5/index.m3u8
 #EXTINF:-1,  Golden Hd
-http://161.132.243.192:50001/play/a03m/index.m3u8
+http://187.102.208.108:50001/play/a03m/index.m3u8
 #EXTINF:-1,  Golden Edge Hd
-http://161.132.243.192:50001/play/a04a/index.m3u8
+http://187.102.208.108:50001/play/a04a/index.m3u8
 #EXTINF:-1,  Golden Plus Hd
-http://161.132.243.192:50001/play/a01f/index.m3u8
+http://187.102.208.108:50001/play/a01f/index.m3u8
 #EXTINF:-1,  Golden Premiere Hd
-http://161.132.243.192:50001/play/a03k/index.m3u8
+http://187.102.208.108:50001/play/a03k/index.m3u8
 #EXTINF:-1,  Golden Premiere 2 Hd
-http://161.132.243.192:50001/play/a03l/index.m3u8
+http://187.102.208.108:50001/play/a03l/index.m3u8
 #EXTINF:-1,  Clover Channel Hd
-http://161.132.243.192:50001/play/a009/index.m3u8
+http://190.102.139.244:8900/play/a0t1/index.m3u8
 #EXTINF:-1,  Axn Hd
-http://161.132.243.192:50001/play/a005/index.m3u8
+http://190.102.139.244:8900/play/a0sv/index.m3u8
 #EXTINF:-1,  A&E Hd
-http://161.132.243.192:50001/play/a001/index.m3u8
+http://190.102.139.244:8900/play/a0ss/index.m3u8
 #EXTINF:-1,  Film & Arth Hd
-http://161.132.243.192:50001/play/a03z/index.m3u8
+http://187.102.208.108:50001/play/a03z/index.m3u8
 #EXTINF:-1,  Comedy Central Hd
-http://161.132.243.192:50001/play/a00m/index.m3u8
+http://190.102.139.244:8900/play/a0n6/index.m3u8
 #EXTINF:-1,  Distrito Comedia Hd
-http://161.132.243.192:50001/play/a04h/index.m3u8
+http://187.102.208.108:50001/play/a04h/index.m3u8
 #EXTINF:-1,  Amc Hd
-http://161.132.243.192:50001/play/a013/index.m3u8
+http://190.102.139.244:8900/play/a0nz/index.m3u8
 #EXTINF:-1,  Dhe Hd
-http://161.132.243.192:50001/play/a01u/index.m3u8
+http://190.102.139.244:8900/play/a0xk/index.m3u8
 #EXTINF:-1,  Fx Hd
-http://161.132.243.192:50001/play/a00z/index.m3u8
+http://190.102.139.244:8900/play/a0np/index.m3u8
 #EXTINF:-1,  Paramount Hd
-http://161.132.243.192:50001/play/a018/index.m3u8
+http://190.102.139.244:8900/play/a0o4/index.m3u8
 #EXTINF:-1,  Syfy Hd
-http://161.132.243.192:50001/play/a049/index.m3u8
+http://190.102.139.244:8900/play/a0kt/index.m3u8
 #EXTINF:-1,  Tnt Hd
-http://161.132.243.192:50001/play/a00f/index.m3u8
+http://190.102.139.244:8900/play/a0my/index.m3u8
 #EXTINF:-1,  Tnt Series Hd
-http://161.132.243.192:50001/play/a00y/index.m3u8
+http://190.102.139.244:8900/play/a0no/index.m3u8
 #EXTINF:-1,  Space Hd
-http://161.132.243.192:50001/play/a006/index.m3u8
+http://190.102.139.244:8900/play/a0sw/index.m3u8
 #EXTINF:-1,  Studio Universal Hd
-http://161.132.243.192:50001/play/a019/index.m3u8
+http://190.102.139.244:8900/play/a0o5/index.m3u8
 #EXTINF:-1,  Star Channel Hd
-http://161.132.243.192:50001/play/a01r/index.m3u8
+http://190.102.139.244:8900/play/a0xb/index.m3u8
 #EXTINF:-1,  Warner Channel Hd
-http://161.132.243.192:50001/play/a004/index.m3u8
+http://190.102.139.244:8900/play/a0su/index.m3u8
 #EXTINF:-1,  Cinecanal Hd
-http://161.132.243.192:50001/play/a012/index.m3u8
+http://190.102.139.244:8900/play/a0ny/index.m3u8
 #EXTINF:-1,  Star Tve Hd
-http://161.132.243.192:50001/play/a01a/index.m3u8
+http://190.102.139.244:8900/play/a0o6/index.m3u8
 #EXTINF:-1,  De Pelicula Hd
-http://161.132.243.192:50001/play/a04g/index.m3u8
+http://190.102.139.244:8900/play/a0zn/index.m3u8
 #EXTINF:-1,  Mx Prime
 http://45.181.122.13:8000/play/080
 #EXTINF:-1,  Mx Family
@@ -154,118 +154,118 @@ http://45.181.122.13:8000/play/078
 #EXTINF:-1,  Mx Old
 http://45.181.122.13:8000/play/082
 #EXTINF:-1,  Fmh Family Hd
-http://186.10.252.90:8000/play/a02i
+http://190.211.250.148:8000/play/a03s
 #EXTINF:-1,  Fmh Movie
-http://186.10.252.90:8000/play/a02k
+http://190.211.250.148:8000/play/a03u
 #EXTINF:-1,  Rewind
-http://186.10.252.90:8000/play/a02m
+http://190.211.250.148:8000/play/a052
+#EXTINF:-1,  Tbs
+http://190.102.139.244:8900/play/a0vq/index.m3u8
+#EXTINF:-1,  Tcm
+http://190.102.139.244:8900/play/a0kj/index.m3u8
 #EXTINF:-1,  Goltv Hd
-http://161.132.243.192:50001/play/a01i/index.m3u8
+http://190.102.139.244:8900/play/a0ok/index.m3u8
 #EXTINF:-1,  Gol Peru Hd
-http://161.132.243.192:50001/play/a01n/index.m3u8
+http://190.102.139.244:8900/play/a0oq/index.m3u8
 #EXTINF:-1,  Liga 1 Max Hd
-http://161.132.243.192:50001/play/a03y/index.m3u8
+http://187.102.208.108:50001/play/a03y/index.m3u8
 #EXTINF:-1,  Movistar Deportes Hd
-http://161.132.243.192:50001/play/a01d/index.m3u8
+http://190.102.139.244:8900/play/a0oc/index.m3u8
 #EXTINF:-1,  Espn Hd
-http://161.132.243.192:50001/play/a00b/index.m3u8
+http://190.102.139.244:8900/play/a0t6/index.m3u8
 #EXTINF:-1,  Espn 2 Hd
-http://161.132.243.192:50001/play/a008/index.m3u8
+http://190.102.139.244:8900/play/a0t2/index.m3u8
 #EXTINF:-1,  Espn 3 Hd
-http://161.132.243.192:50001/play/a00g/index.m3u8
+http://190.102.139.244:8900/play/a0mz/index.m3u8
 #EXTINF:-1,  Espn 4 Hd
-http://161.132.243.192:50001/play/a00v/index.m3u8
+http://190.102.139.244:8900/play/a0ni/index.m3u8
 #EXTINF:-1,  Espn Extra Hd
-http://161.132.243.192:50001/play/a014/index.m3u8
+http://190.102.139.244:8900/play/a0o0/index.m3u8
 #EXTINF:-1,  Fox Sports Hd
-http://161.132.243.192:50001/play/a02p/index.m3u8
+http://190.102.139.244:8900/play/a0xp/index.m3u8
 #EXTINF:-1,  Fox Sports 2 Hd
-http://161.132.243.192:50001/play/a00w/index.m3u8
+http://190.102.139.244:8900/play/a0nj/index.m3u8
 #EXTINF:-1,  Fox Sports 3 Hd
-http://161.132.243.192:50001/play/a00h/index.m3u8
+http://190.102.139.244:8900/play/a0n0/index.m3u8
 #EXTINF:-1,  Dsports Hd
-http://161.132.243.192:50001/play/a03o/index.m3u8
+http://187.102.208.108:50001/play/a03o/index.m3u8
 #EXTINF:-1,  Dsports 2 Hd
-http://161.132.243.192:50001/play/a03p/index.m3u8
+http://187.102.208.108:50001/play/a03p/index.m3u8
 #EXTINF:-1,  Dsports + Hd
-http://161.132.243.192:50001/play/a03q/index.m3u8
+http://187.102.208.108:50001/play/a03q/index.m3u8
 #EXTINF:-1,  Tnt Sports Hd
-http://161.132.243.192:50001/play/a03r/index.m3u8
+http://187.102.208.108:50001/play/a03r/index.m3u8
 #EXTINF:-1,  Tigo Sports Hd
-http://161.132.243.192:50001/play/a041/index.m3u8
+http://187.102.208.108:50001/play/a041/index.m3u8
 #EXTINF:-1,  Claro Sports 1 Hd
-http://161.132.243.192:50001/play/a02w/index.m3u8
+http://187.102.208.108:50001/play/a02w/index.m3u8
 #EXTINF:-1,  Claro Sports 2 Hd
-http://161.132.243.192:50001/play/a03v/index.m3u8
-#EXTINF:-1,  Golf Channel Hd
-http://161.132.243.192:50001/play/a03w/index.m3u8
+http://187.102.208.108:50001/play/a03v/index.m3u8
 #EXTINF:-1,  Tyc
-http://209.45.81.84:8000/play/a009
-#EXTINF:-1,  Teennick Hd
-http://161.132.243.192:50001/play/a047/index.m3u8
-#EXTINF:-1,  Discovery Kids Hd
-http://161.132.243.192:50001/play/a00q/index.m3u8
-#EXTINF:-1,  Cartoonito Hd
-http://161.132.243.192:50001/play/a03a/index.m3u8
-#EXTINF:-1,  Disney Channel Hd
-http://161.132.243.192:50001/play/a00e/index.m3u8
-#EXTINF:-1,  Disney Junior Hd
-http://161.132.243.192:50001/play/a00i/index.m3u8
-#EXTINF:-1,  Nick Junior Hd
-http://161.132.243.192:50001/play/a048/index.m3u8
-#EXTINF:-1,  Lolly Kids Hd
-http://161.132.243.192:50001/play/a01o/index.m3u8
-#EXTINF:-1,  Nickelodeon Hd
-http://161.132.243.192:50001/play/a00a/index.m3u8
-#EXTINF:-1,  Cartoon Network Hd
-http://161.132.243.192:50001/play/a017/index.m3u8
-#EXTINF:-1,  Dreamworks Hd
-http://161.132.243.192:50001/play/a03x/index.m3u8
-#EXTINF:-1,  Zoomoo Hd
-http://161.132.243.192:50001/play/a04j/index.m3u8
+http://190.102.139.244:8900/play/a0op/index.m3u8
+#EXTINF:-1,  - Discovery Kids Hd
+http://187.102.208.108:50001/play/a00q/index.m3u8
+#EXTINF:-1,  - Cartoonito Hd
+http://187.102.208.108:50001/play/a03a/index.m3u8
+#EXTINF:-1,  - Disney Channel Hd
+http://187.102.208.108:50001/play/a00e/index.m3u8
+#EXTINF:-1,  - Disney Junior Hd
+http://187.102.208.108:50001/play/a00i/index.m3u8
+#EXTINF:-1,  - Nick Junior Hd
+http://187.102.208.108:50001/play/a048/index.m3u8
+#EXTINF:-1,  - Lolly Kids Hd
+http://187.102.208.108:50001/play/a01o/index.m3u8
+#EXTINF:-1,  - Nickelodeon Hd
+http://187.102.208.108:50001/play/a00a/index.m3u8
+#EXTINF:-1,  - Cartoon Network Hd
+http://187.102.208.108:50001/play/a017/index.m3u8
+#EXTINF:-1,  - Dreamworks Hd
+http://187.102.208.108:50001/play/a03x/index.m3u8
+#EXTINF:-1,  - Zoomoo Hd
+http://187.102.208.108:50001/play/a04j/index.m3u8
+#EXTINF:-1,  - Betme Hd
+http://187.102.208.108:50001/play/a04i/index.m3u8
 #EXTINF:-1,  Fmh Kids
 http://186.10.252.90:8000/play/a02j
 #EXTINF:-1,  Animotion
 http://186.10.252.90:8000/play/a04f
 #EXTINF:-1,  Ipe Hd
-http://161.132.243.192:50001/play/a02f/index.m3u8
+https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
 #EXTINF:-1,  National Geographic
-http://161.132.243.192:50001/play/a010/index.m3u8
+http://190.102.139.244:8900/play/a0nw/index.m3u8
 #EXTINF:-1,  Discovery Channel
-http://161.132.243.192:50001/play/a01v/index.m3u8
+http://190.102.139.244:8900/play/a0xl/index.m3u8
 #EXTINF:-1,  Discovery Id
-http://161.132.243.192:50001/play/a00n/index.m3u8
+http://190.102.139.244:8900/play/a0vo/index.m3u8
 #EXTINF:-1,  Discovery Turbo
-http://161.132.243.192:50001/play/a038/index.m3u8
+http://190.102.139.244:8900/play/a0z8/index.m3u8
 #EXTINF:-1,  Discovery World Hd
-http://161.132.243.192:50001/play/a011/index.m3u8
+http://190.102.139.244:8900/play/a0nx/index.m3u8
 #EXTINF:-1,  Discovery Science Hd
-http://161.132.243.192:50001/play/a039/index.m3u8
+http://187.102.208.108:50001/play/a039/index.m3u8
 #EXTINF:-1,  History Channel
-http://161.132.243.192:50001/play/a003/index.m3u8
+http://190.102.139.244:8900/play/a0sr/index.m3u8
 #EXTINF:-1,  History 2
-http://161.132.243.192:50001/play/a01w/index.m3u8
+http://190.102.139.244:8900/play/a0xq/index.m3u8
 #EXTINF:-1,  Animal Planet
-http://161.132.243.192:50001/play/a01e/index.m3u8
+http://190.102.139.244:8900/play/a0oa/index.m3u8
 #EXTINF:-1,  Love Nature Hd
-http://161.132.243.192:50001/play/a01p/index.m3u8
+http://190.102.139.244:8900/play/a0x5/index.m3u8
 #EXTINF:-1,  Atlas
 http://186.10.252.90:8000/play/a03w
-#EXTINF:-1,  Mtv Hd
-http://161.132.243.192:50001/play/a01s/index.m3u8
-#EXTINF:-1,  Mtv Live Hd
-http://161.132.243.192:50001/play/a00u/index.m3u8
-#EXTINF:-1,  Telehit Hd
-http://161.132.243.192:50001/play/a01g/index.m3u8
-#EXTINF:-1,  Stingray Concerts Hd
-http://161.132.243.192:50001/play/a01j/index.m3u8
-#EXTINF:-1,  Bandamax Hd
-http://161.132.243.192:50001/play/a04b/index.m3u8
-#EXTINF:-1,  Telehit Latino Hd
-http://161.132.243.192:50001/play/a04c/index.m3u8
-#EXTINF:-1,  Telehit Musica Hd
-http://161.132.243.192:50001/play/a04d/index.m3u8
+#EXTINF:-1,  - Mtv Hd
+http://187.102.208.108:50001/play/a01s/index.m3u8
+#EXTINF:-1,  - Mtv Live Hd
+http://187.102.208.108:50001/play/a00u/index.m3u8
+#EXTINF:-1,  - Telehit Hd
+http://187.102.208.108:50001/play/a01g/index.m3u8
+#EXTINF:-1,  - Stingray Concerts Hd
+http://187.102.208.108:50001/play/a01j/index.m3u8
+#EXTINF:-1,  - Bandamax Hd
+http://187.102.208.108:50001/play/a04b/index.m3u8
+#EXTINF:-1,  - Telehit Latino Hd
+http://187.102.208.108:50001/play/a04c/index.m3u8
+#EXTINF:-1,  - Telehit Musica Hd
+http://187.102.208.108:50001/play/a04d/index.m3u8
 #EXTINF:-1,  Trutv Hd
-http://161.132.243.192:50001/play/a00d/index.m3u8
-#EXTINF:-1,  Top Latino
-http://161.132.243.192:50001/play/a042/index.m3u8
+http://187.102.208.108:50001/play/a00d/index.m3u8
