@@ -253,19 +253,19 @@ http://190.102.139.244:8900/play/a0oa/index.m3u8
 http://190.102.139.244:8900/play/a0x5/index.m3u8
 #EXTINF:-1,  Atlas
 http://186.10.252.90:8000/play/a03w
-#EXTINF:-1,  - Mtv Hd
+#EXTINF:-1,  Mtv Hd
 http://187.102.208.108:50001/play/a01s/index.m3u8
-#EXTINF:-1,  - Mtv Live Hd
+#EXTINF:-1,  Mtv Live Hd
 http://187.102.208.108:50001/play/a00u/index.m3u8
-#EXTINF:-1,  - Telehit Hd
+#EXTINF:-1,  Telehit Hd
 http://187.102.208.108:50001/play/a01g/index.m3u8
-#EXTINF:-1,  - Stingray Concerts Hd
+#EXTINF:-1,  Stingray Concerts Hd
 http://187.102.208.108:50001/play/a01j/index.m3u8
-#EXTINF:-1,  - Bandamax Hd
+#EXTINF:-1,  Bandamax Hd
 http://187.102.208.108:50001/play/a04b/index.m3u8
-#EXTINF:-1,  - Telehit Latino Hd
+#EXTINF:-1,  Telehit Latino Hd
 http://187.102.208.108:50001/play/a04c/index.m3u8
-#EXTINF:-1,  - Telehit Musica Hd
+#EXTINF:-1,  Telehit Musica Hd
 http://187.102.208.108:50001/play/a04d/index.m3u8
 #EXTINF:-1,  Trutv Hd
 http://187.102.208.108:50001/play/a00d/index.m3u8
