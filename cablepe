@@ -2,11 +2,11 @@
 #EXTINF:-1,  Willax
 http://177.53.153.225:8000/play/a00o/index.m3u8
 #EXTINF:-1,  Latina
-http://179.51.163.250:8000/play/a00c/index.m3u8
+http://181.78.208.254:8010/play/a05e/index.m3u8
 #EXTINF:-1,  America Tv
-http://179.51.163.250:8000/play/a00b/index.m3u8
+http://181.226.112.56:8000/play/a05f/index.m3u8
 #EXTINF:-1,  Panamerica
-http://51.222.110.182:8000/play/a003
+http://181.78.208.254:8010/play/a063/index.m3u8
 #EXTINF:-1,  Tv Peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1,  Tv Peru Noticias
@@ -16,7 +16,7 @@ https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp
 #EXTINF:-1,  Atv Plus
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
 #EXTINF:-1,  Global Tv
-http://179.51.163.250:8000/play/a033/index.m3u8
+http://181.78.208.254:8010/play/a068/index.m3u8
 #EXTINF:-1,  La Tele
 http://45.189.117.202:48000/play/a002/index.m3u8
 #EXTINF:-1,  Asiri Tv
