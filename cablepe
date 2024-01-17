@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1,  Willax
-http://177.53.153.225:8000/play/a00o/index.m3u8
+https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1,  Latina
-http://181.78.208.254:8010/play/a05e/index.m3u8
+https://live-zlr1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1,  America Tv
-http://181.226.112.56:8000/play/a05f/index.m3u8
+https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1,  Panamerica
-http://181.78.208.254:8010/play/a063/index.m3u8
+https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1,  Tv Peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1,  Tv Peru Noticias
@@ -16,9 +16,9 @@ https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp
 #EXTINF:-1,  Atv Plus
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
 #EXTINF:-1,  Global Tv
-http://181.78.208.254:8010/play/a068/index.m3u8
+https://cdn4.eco.cdn.moderntv.eu/econocable/stream/GLOBAL/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DGLOBAL_stream_c2&_cdn_session=1731480812&_cdn_timestamp=1705179367&_cdn_token=eff3e4927a3f5bd4941f17a1136dc008c99e7f77
 #EXTINF:-1,  La Tele
-http://45.189.117.202:48000/play/a002/index.m3u8
+http://187.102.208.108:50001/play/a043/index.m3u8
 #EXTINF:-1,  Asiri Tv
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1,  Canal N
@@ -26,11 +26,13 @@ http://187.102.208.108:50001/play/a02o/index.m3u8
 #EXTINF:-1,  Rpp
 http://187.102.208.108:50001/play/a02n/index.m3u8
 #EXTINF:-1,  Tele Lima
-https://mserver.latincable.net/TeleLimaSD/index.m3u8
+https://ott1.hdlatam.tv/live/T3l3_KnufrnedxgL1m4/playlist.m3u8
 #EXTINF:-1,  Nativa
-https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8?nimblesessionid=49846976
+https://ntv.pe/salida/sd/nativa.m3u8
 #EXTINF:-1,  Exitosa
 http://187.102.208.108:50001/play/a02d/index.m3u8
+#EXTINF:-1,  Pbo
+https://ythls.armelin.one/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
 #EXTINF:-1,  Unitel Hyo
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1,  Cadena Tv Hyo
@@ -146,13 +148,13 @@ http://187.102.208.108:50001/play/a04g/index.m3u8
 #EXTINF:-1,  Star Tve Hd
 http://190.102.139.244:8900/play/a0o6/index.m3u8
 #EXTINF:-1,  Mx Prime
-http://45.181.122.13:8000/play/080
+https://marine2.miplay.cl/mxprime/playlist.m3u8
 #EXTINF:-1,  Mx Family
-http://190.110.109.104:52321/play/a00s/index.m3u8
+https://marine2.miplay.cl/mxfamily/playlist.m3u8
 #EXTINF:-1,  Mx Classic
-http://190.110.109.104:52321/play/a00r/index.m3u8
+https://marine2.miplay.cl/mxclassic/playlist.m3u8
 #EXTINF:-1,  Mx Old
-http://190.110.109.104:52321/play/a00u/index.m3u8
+https://marine2.miplay.cl/old/playlist.m3u8
 #EXTINF:-1,  Fmh Family Hd
 http://190.110.109.104:52321/play/a012/index.m3u8
 #EXTINF:-1,  Fmh Movie
@@ -234,7 +236,9 @@ http://190.110.109.104:52321/play/a013/index.m3u8
 #EXTINF:-1,  Animotion
 http://190.110.109.104:52321/play/a016/index.m3u8
 #EXTINF:-1,  Ipe Hd
-https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+#EXTINF:-1,  Tooncast
+http://138.59.177.34:8000/play/a04x/index.m3u8
 #EXTINF:-1,  Love Nature Hd
 http://190.102.139.244:8900/play/a0x5/index.m3u8
 #EXTINF:-1,  Nat Geo Hd
