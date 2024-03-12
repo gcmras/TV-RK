@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1,  Willax
-https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1,  Latina
-https://live-zlr1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-evg4.tv360.bitel.com.pe/bitel/latina/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1,  America Tv
-https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-evg4.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1,  Panamerica
-https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:-1,  Tv Peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1,  Tv Peru Noticias
@@ -16,9 +16,9 @@ https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp
 #EXTINF:-1,  Atv Plus
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
 #EXTINF:-1,  Global Tv
-http://bantel.iptvperu.tv:1935/transcoderip/global_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/global_t1/playlist.m3u8
 #EXTINF:-1,  La Tele
-http://bantel.iptvperu.tv:1935/transcoderip/latele_t1.stream/playlist.m3u8
+http://bantel.iptvperu.tv:1935/transcoderip/latele_t1/playlist.m3u8
 #EXTINF:-1,  Asiri Tv
 https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1,  Canal N
@@ -28,9 +28,9 @@ http://191.97.60.193:10000/play/a020/index.m3u8
 #EXTINF:-1,  Nativa
 https://ntv.pe/salida/sd/nativa.m3u8
 #EXTINF:-1,  Exitosa
-https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+https://exitosa.cusac.online/79525baf-b0f5-4013-a8bd-3c5c293c6561
 #EXTINF:-1,  Pbo
-http://bantel.iptvperu.tv:1935/bantel/PBO/playlist.m3u8
+https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1827920444&_cdn_timestamp=1710270477&_cdn_token=f2c164d85eef479ebebccab50e51733994ffe8c6
 #EXTINF:-1,  Unitel Hyo
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1,  Cadena Tv Hyo
