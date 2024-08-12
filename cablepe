@@ -12,31 +12,29 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1,  Tv Peru Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1,  Atv
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_source/chunks.m3u8
 #EXTINF:-1,  Atv Plus
-https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_source/chunks.m3u8
 #EXTINF:-1,  Global Tv
-http://bantel.iptvperu.tv:1935/transcoderip/global_t1/playlist.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
 #EXTINF:-1,  La Tele
-http://bantel.iptvperu.tv:1935/transcoderip/latele_t1/playlist.m3u8
-#EXTINF:-1,  Asiri Tv
-https://video2.lhdserver.es/asiritv/live.m3u8
+http://bantel.iptvperu.tv:1935/cdntij/latele.stream/chunks.m3u8
 #EXTINF:-1,  Canal N
-http://www.onlinetv365.xyz:8080/live/57tyjhg65ljouni7yu711/thjhg3468ihj/11.m3u8
+http://191.97.49.13:8000/play/a036/index.m3u8
 #EXTINF:-1,  Tele Lima
-http://191.97.60.193:10000/play/a020/index.m3u8
+http://38.44.237.132:2080/TeleLima/index.m3u8
 #EXTINF:-1,  Nativa
-https://ntv.pe/salida/sd/nativa.m3u8
+https://live-evg4.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8
 #EXTINF:-1,  Exitosa
-https://exitosa.cusac.online/79525baf-b0f5-4013-a8bd-3c5c293c6561
+https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/chunks.m3u8
 #EXTINF:-1,  Pbo
-https://cdn5.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1827920444&_cdn_timestamp=1710270477&_cdn_token=f2c164d85eef479ebebccab50e51733994ffe8c6
+https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_source/chunks.m3u8
 #EXTINF:-1,  Unitel Hyo
 https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1,  Cadena Tv Hyo
-https://servilive.com:3079/live/cdnatvlive.m3u8
+https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 #EXTINF:-1,  Telesistema
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w253359515.m3u8
+https://k20.usastreams.com:8081/telesistema/index.m3u8
 #EXTINF:-1,  Tele Red
 https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:-1,  Acs Network
@@ -45,213 +43,5 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w101871666.
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1,  Stv
 https://lstv.duckdns.org:449/hls/stv.m3u8
-#EXTINF:-1,  Retroplus Tv
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w501084101.m3u8
-#EXTINF:-1,  Las Estrellas Hd
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1,  Rt Espanol
-https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
-#EXTINF:-1,  Dw
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1,  Telemundo
-http://bantel.iptvperu.tv:1935/transcoder4-srt/telemundo.stream/playlist.m3u8
-#EXTINF:-1,  E Entertainment
-http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
-#EXTINF:-1,  Discovery Home & Health
-http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
-#EXTINF:-1,  Universal Channel Hd
-http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
-#EXTINF:-1,  Universal Cinema Hd
-http://190.149.66.90:4000/play/a056/index.m3u8
-#EXTINF:-1,  Universal Premier Hd
-http://190.149.66.90:4000/play/a03t/index.m3u8
-#EXTINF:-1,  Universal Reality Hd
-http://190.149.66.90:4000/play/a03v/index.m3u8
-#EXTINF:-1,  Universal Crime Hd
-http://190.149.66.90:4000/play/a03w/index.m3u8
-#EXTINF:-1,  Universal Comedy Hd
-http://190.149.66.90:4000/play/a03x/index.m3u8
-#EXTINF:-1,  Hbo Hd
-http://138.59.177.34:8000/play/a01m/index.m3u8
-#EXTINF:-1,  Hbo 2 Hd
-http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
-#EXTINF:-1,  Hbo Plus Hd
-http://138.59.177.34:8000/play/a01o/index.m3u8
-#EXTINF:-1,  Hbo Family Hd
-http://138.59.177.34:8000/play/a01p/index.m3u8
-#EXTINF:-1,  Hbo Xtreme Hd
-http://138.59.177.34:8000/play/a01q/index.m3u8
-#EXTINF:-1,  Hbo Pop Hd
-http://38.41.8.1:8000/play/a00d
-#EXTINF:-1,  Sony Movies Hd
-http://bantel.iptvperu.tv:1935/transcoder4-srt/SonyMovies.stream/playlist.m3u8
-#EXTINF:-1,  Sony Channel Hd
-http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
-#EXTINF:-1,  Cinemax Hd
-http://190.90.154.73:8080/play/a022/index.m3u8
-#EXTINF:-1,  Golden Hd
-http://138.59.177.34:8000/play/a04d/index.m3u8
-#EXTINF:-1,  Golden Edge Hd
-https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-#EXTINF:-1,  Golden Plus Hd
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1,  Golden Premiere Hd
-http://138.59.177.34:8000/play/a018/index.m3u8
-#EXTINF:-1,  Golden Premiere 2 Hd
-http://138.59.177.34:8000/play/a019/index.m3u8
-#EXTINF:-1,  Clover Channel Hd
-http://177.234.230.226:8010/play/a00a/index.m3u8
-#EXTINF:-1,  Axn Hd
-http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
-#EXTINF:-1,  A&E Hd
-http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
-#EXTINF:-1,  Film & Arth Hd
-http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
-#EXTINF:-1,  Comedy Central Hd
-http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
-#EXTINF:-1,  Distrito Comedia Hd
-http://45.5.117.182:8000/play/ihf9/index.m3u8
-#EXTINF:-1,  Amc Hd
-http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
-#EXTINF:-1,  Dhe Hd
-http://138.59.177.34:8000/play/a038/index.m3u8
-#EXTINF:-1,  Fx Hd
-http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
-#EXTINF:-1,  Paramount Hd
-http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
-#EXTINF:-1,  Tnt Hd
-http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
-#EXTINF:-1,  Tnt Series Hd
-http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
-#EXTINF:-1,  Space Hd
-http://138.59.177.34:8000/play/a02c/index.m3u8
-#EXTINF:-1,  Studio Universal Hd
-http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
-#EXTINF:-1,  Star Channel Hd
-http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
-#EXTINF:-1,  Warner Channel Hd
-http://138.59.177.34:8000/play/a05d/index.m3u8
-#EXTINF:-1,  Cinecanal Hd
-http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
-#EXTINF:-1,  De Pelicula Hd
-https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-#EXTINF:-1,  Star Tve Hd
-http://45.5.117.182:8000/play/a0fu/index.m3u8
-#EXTINF:-1,  Mx Prime
-https://marine2.miplay.cl/mxprime/playlist.m3u8
-#EXTINF:-1,  Mx Family
-https://marine2.miplay.cl/mxfamily/playlist.m3u8
-#EXTINF:-1,  Mx Classic
-https://marine2.miplay.cl/mxclassic/playlist.m3u8
-#EXTINF:-1,  Mx Old
-https://marine2.miplay.cl/old/playlist.m3u8
-#EXTINF:-1,  Fmh Family Hd
-http://160.20.165.246:8000/play/a01j/index.m3u8
-#EXTINF:-1,  Fmh Movie
-http://191.97.60.193:10000/play/a02a/index.m3u8
-#EXTINF:-1,  Rewind
-http://190.110.109.104:52321/play/a014/index.m3u8
-#EXTINF:-1,  Tbs
-http://190.149.66.90:4000/play/a02m/index.m3u8
-#EXTINF:-1,  Tcm
-http://190.149.66.90:4000/play/a02m/index.m3u8
-#EXTINF:-1,  Goltv Hd
-http://190.90.154.73:8080/play/a08t/index.m3u8
-#EXTINF:-1,  Gol Peru Hd
-http://190.61.55.186:1010/play/a010/index.m3u8
-#EXTINF:-1,  Liga 1 Max Hd
- 
-#EXTINF:-1,  Movistar Deportes Hd
-http://190.61.55.186:1010/play/a00q/index.m3u8
-#EXTINF:-1,  Espn Hd
-http://bantel.iptvperu.tv:1935/deportes_ll/ESPN_t2.stream/playlist.m3u8
-#EXTINF:-1,  Espn 2 Hd
-http://bantel.iptvperu.tv:1935/deportes_ll/ESPN2_t2.stream/playlist.m3u8
-#EXTINF:-1,  Espn 3 Hd
-http://bantel.iptvperu.tv:1935/deportes_ll/ESPN3_t2.stream/playlist.m3u8
-#EXTINF:-1,  Espn 4 Hd
-http://bantel.iptvperu.tv:1935/transcoderip/espnextrabk_t2.stream/playlist.m3u8
-#EXTINF:-1,  Espn 5 Hd
-http://bantel.iptvperu.tv:1935/deportes_ll/ESPN4_t2.stream/playlist.m3u8
-#EXTINF:-1,  Espn 6 Hd
-http://bantel.iptvperu.tv:1935/deportes_ll/FoxSports3_t2.stream/playlist.m3u8
-#EXTINF:-1,  Espn 7 Hd
-http://bantel.iptvperu.tv:1935/deportes_ll/FoxSports2_t2.stream/playlist.m3u8
-#EXTINF:-1,  Tnt Sports Hd
-http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
-#EXTINF:-1,  Claro Sports 1 Hd
-http://138.59.177.34:8000/play/a01i/index.m3u8
-#EXTINF:-1,  Claro Sports 2 Hd
-http://138.59.177.34:8000/play/a01j/index.m3u8
-#EXTINF:-1,  Golf Channel Hd
-http://187.102.208.108:50001/play/a03w/index.m3u8
-#EXTINF:-1,  Tyc
-http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
-#EXTINF:-1,  Teennick Hd
-http://bantel.iptvperu.tv:1935/transcoder4-srt/nickteen.stream/playlist.m3u8
-#EXTINF:-1,  Discovery Kids Hd
-http://190.90.154.73:8080/play/a02n/index.m3u8
-#EXTINF:-1,  Cartoonito Hd
-http://138.59.177.34:8000/play/a025/index.m3u8
-#EXTINF:-1,  Disney Channel Hd
-http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyChannel.stream/playlist.m3u8
-#EXTINF:-1,  Disney Junior Hd
-http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyJR.stream/playlist.m3u8
-#EXTINF:-1,  Nick Junior Hd
-http://bantel.iptvperu.tv:1935/transcoder4-srt/nickjr.stream/playlist.m3u8
-#EXTINF:-1,  Lolly Kids Hd
-http://38.41.8.1:8000/play/a02n
-#EXTINF:-1,  Nickelodeon Hd
-http://bantel.iptvperu.tv:1935/transcoder4-srt/nick.stream/playlist.m3u8
-#EXTINF:-1,  Cartoon Network Hd
-http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
-#EXTINF:-1,  Dreamworks Hd
-http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
-#EXTINF:-1,  Zoomoo Hd
-http://138.59.177.34:8000/play/a00q/index.m3u8
-#EXTINF:-1,  Betme Hd
-https://live-zlr1.tv360.bitel.com.pe/bitel/bethel/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
-#EXTINF:-1,  Fmh Kids
-http://191.97.60.193:10000/play/a02q/index.m3u8
-#EXTINF:-1,  Animotion
-http://190.110.109.104:52321/play/a016/index.m3u8
-#EXTINF:-1,  Ipe Hd
-http://bantel.iptvperu.tv:1935/transcoderip/ipe_t1.stream/playlist.m3u8
-#EXTINF:-1,  Tooncast
-https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
-#EXTINF:-1,  Love Nature Hd
-http://190.90.154.73:8080/play/a092/index.m3u8
-#EXTINF:-1,  Nat Geo Hd
-http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
-#EXTINF:-1,  History Hd
-http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
-#EXTINF:-1,  History 2 Hd
-http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
-#EXTINF:-1,  Animal Planet Hd
-http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
-#EXTINF:-1,  Discovery Channel Hd
-http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
-#EXTINF:-1,  Discovery World Hd
-http://138.59.177.34:8000/play/a078/index.m3u8
-#EXTINF:-1,  Discovery Theater Hd
-http://138.59.177.34:8000/play/a05m/index.m3u8
-#EXTINF:-1,  Discovery Id Hd
-http://138.59.177.34:8000/play/a06g/index.m3u8
-#EXTINF:-1,  Discovery Turbo Hd
-http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8
-#EXTINF:-1,  Discovery Science Hd
-http://138.59.177.34:8000/play/a00v/index.m3u8
-#EXTINF:-1,  Atlas
-http://191.97.60.193:10000/play/a02o/index.m3u8
-#EXTINF:-1,  Mtv Hd
-http://138.59.177.34:8000/play/a02u/index.m3u8
-#EXTINF:-1,  Mtv Live Hd
-http://138.59.177.34:8000/play/a05q/index.m3u8
-#EXTINF:-1,  Telehit Hd
-https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-#EXTINF:-1,  Mtv 80S
-http://138.59.177.34:8000/play/a02j/index.m3u8
-#EXTINF:-1,  Mtv 00S
-http://138.59.177.34:8000/play/a05r/index.m3u8
-#EXTINF:-1,  Adult Swim
-http://190.90.154.73:8080/play/a025/index.m3u8
+#EXTINF:-1,  Retroplus TV
+https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1237781339.m3u8
