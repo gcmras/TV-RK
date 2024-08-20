@@ -43,5 +43,5 @@ https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w101871666.
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 #EXTINF:-1,  Stv
 https://lstv.duckdns.org:449/hls/stv.m3u8
-#EXTINF:-1,  Retroplus TV
-https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1237781339.m3u8
+#EXTINF:-1,  TV Retro Palmares
+https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
