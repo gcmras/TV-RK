@@ -24,7 +24,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/ctv/bitel/ctv_ori_source/chunks.m3u8
 #EXTINF:-1,  Tele Lima
 http://38.44.237.132:2080/TeleLima/index.m3u8
 #EXTINF:-1,  Nativa
-https://live-evg4.tv360.bitel.com.pe/bitel/nativa/chunks.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/nativa/bitel/nativa_ori_480p/chunks.m3u8
 #EXTINF:-1,  Exitosa
 https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chunks.m3u8
 #EXTINF:-1,  Pbo
