@@ -22,9 +22,13 @@ https://bantel.iptvperu.tv:1935/cdntij/latele.stream/chunks.m3u8
 #EXTINF:-1,  CTV
 https://live-evg25.tv360.bitel.com.pe/bitel/ctv/bitel/ctv_ori_source/chunks.m3u8
 #EXTINF:-1,  Tele Lima
-https://38.44.237.132:2080/TeleLima/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/telelima/chunks.m3u8
+#EXTINF:-1,  Like TV
+https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
 #EXTINF:-1,  Nativa
 https://live-evg25.tv360.bitel.com.pe/bitel/nativa/bitel/nativa_ori_480p/chunks.m3u8
+#EXTINF:-1,  Conecta2
+https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/bitel/conectado2_ori_source/chunks.m3u8
 #EXTINF:-1,  Exitosa
 https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chunks.m3u8
 #EXTINF:-1,  Pbo
