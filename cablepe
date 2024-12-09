@@ -38,14 +38,19 @@ https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-1,  Cadena Tv Hyo
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 #EXTINF:-1,  Telesistema
-https://k20.usastreams.com:8081/telesistema/index.m3u8
+https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
 #EXTINF:-1,  Tele Red
-https://k20.usastreams.com:8081/telered/index.m3u8
+https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
 #EXTINF:-1,  Acs Network
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w501796406.m3u8
 #EXTINF:-1,  Mi Tv
 https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 #EXTINF:-1,  Stv
 https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1,  TV Retro Palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
+#EXTINF:-1,  Retro X TV
+https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
+#EXTINF:-1,  Retro TV
+https://fl1002.bozztv.com/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
